@@ -13,8 +13,8 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = ">= 2.0.0"
 
-  s.add_dependency 'paperclip', [">= 3.3"]
-  s.add_dependency 'activejob', ">= 4.2"
+  s.add_dependency 'kt-paperclip', [">= 7.0"]
+  s.add_dependency 'activejob', ">= 6.0"
 
   s.add_development_dependency 'mocha'
   s.add_development_dependency "rspec", '< 3.0'

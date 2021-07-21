@@ -2,8 +2,10 @@
 *.log
 pkg/
 public/
+vendor/
 Gemfile.lock
 *.gem
 gemfiles/*.lock
+.bundle/
 .ruby-gemset
 .ruby-version
